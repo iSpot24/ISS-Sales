@@ -1,0 +1,68 @@
+input:focus, textarea:focus, .form-control:focus {
+    outline: none;
+    border-color: #9ba2ab;
+    box-shadow: none;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.back-btn {
+    width: 7.1%;
+}
+
+.fas {
+    margin-left: 1%;
+}
+
+.fa-trash-alt {
+    color: orangered;
+}
+
+.input-group-btn {
+    margin-left: 3%;
+}
+
+.home-flash {
+    position: fixed;
+    width: 90%;
+    padding-left: 15%;
+    padding-right: 5%;
+    top: 55px;
+    z-index: 0;
+    text-align: center;
+}
+
+.card-body {
+    margin-top: 3%;
+}
+
+.customPagination {
+    position: absolute;
+    bottom: 10%;
+    left: 45%;
+    width: 40%;
+}
+
+.noPaddingLeft {
+    padding-left: 0;
+}
+
+.topSpace {
+    margin-top: 1%;
+}
+
+.deleteButton {
+    margin-left: 38%;
+    margin-top: -53px;
+}
+
+.margin-top-negative-35 {
+    margin-top: -35px;
+}
+
+.login-btn {
+    text-align: center;
+}
